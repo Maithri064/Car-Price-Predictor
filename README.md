@@ -3,24 +3,6 @@
 An end-to-end Machine Learning web application that predicts the resale value of used cars based on historical data. This project covers everything from raw data cleaning in **Jupyter Notebook** to a complete web deployment using **Flask** inside **PyCharm**.
 
 ---
-## 📂 Project Structure
-
-car_price_predictor/
-│
-├── templates/
-│   └── index.html                # Premium Dark-Theme UI Dashboard
-
-│
-├── application.py                # Main Flask Server Backend
-
-├── cleaned car.csv               # Cleaned Dataset exported from Jupyter
-
-├── LinearRegressionModel.pkl     # Trained & Serialized ML Model Pipeline
-
-├── Quikr predictor.ipynb        # Jupyter Notebook (Data Analysis & Training)
-
-└── README.md                     # Project Documentation
-
 ## 🛠️ Tech Stack & Architecture
 The project bridges interactive data science development with a web application structure:
 
