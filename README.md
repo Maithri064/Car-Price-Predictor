@@ -16,6 +16,7 @@ Model Serialization: Pickle
 
 ## 🔄 Project Workflow
 1. Data Cleaning & Model Training (Jupyter Notebook)
+   
 All data exploration and model engineering are contained inside Quikr predictor.ipynb:
 
 Data Prep: Handled missing data, filtered out severe vehicle pricing outliers, and standardized text strings.
@@ -41,6 +42,8 @@ Interactive UI: A dark-mode user layout featuring custom focused form behaviors 
 Dependent Dropdowns: Built-in JavaScript event management automatically scans selecting a company (e.g., Audi) to instantly match and refresh only appropriate sub-models available for selection.
 
 Zero-Refresh Performance: Leverages native AJAX asynchronous operations, keeping form elements locked in place while returning data calculations securely from the server.
+
+## Dashboard
 
 
 <img width="1316" height="632" alt="car predictor" src="https://github.com/user-attachments/assets/35fb17de-ccf6-4e73-a53a-1b19545cc51b" />
