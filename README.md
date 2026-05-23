@@ -18,6 +18,11 @@ car_price_predictor/
 ├── Quikr predictor.ipynb        # Jupyter Notebook (Data Analysis & Training)
 └── README.md                     # Project Documentation
 
+
+
+
+
+
 ## 🛠️ Tech Stack & Architecture
 The project bridges interactive data science development with a web application structure:
 
@@ -56,5 +61,9 @@ Interactive UI: A dark-mode user layout featuring custom focused form behaviors 
 Dependent Dropdowns: Built-in JavaScript event management automatically scans selecting a company (e.g., Audi) to instantly match and refresh only appropriate sub-models available for selection.
 
 Zero-Refresh Performance: Leverages native AJAX asynchronous operations, keeping form elements locked in place while returning data calculations securely from the server.
+
+
+<img width="1316" height="632" alt="car predictor" src="https://github.com/user-attachments/assets/35fb17de-ccf6-4e73-a53a-1b19545cc51b" />
+
 
 
