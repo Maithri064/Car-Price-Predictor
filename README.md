@@ -9,11 +9,16 @@ car_price_predictor/
 │
 ├── templates/
 │   └── index.html                # Premium Dark-Theme UI Dashboard
+
 │
 ├── application.py                # Main Flask Server Backend
+
 ├── cleaned car.csv               # Cleaned Dataset exported from Jupyter
+
 ├── LinearRegressionModel.pkl     # Trained & Serialized ML Model Pipeline
+
 ├── Quikr predictor.ipynb        # Jupyter Notebook (Data Analysis & Training)
+
 └── README.md                     # Project Documentation
 
 ## 🛠️ Tech Stack & Architecture
