@@ -58,4 +58,3 @@ Dependent Dropdowns: Built-in JavaScript event management automatically scans se
 Zero-Refresh Performance: Leverages native AJAX asynchronous operations, keeping form elements locked in place while returning data calculations securely from the server.
 
 
-<img width="1323" height="619" alt="image" src="https://github.com/user-attachments/assets/f609a073-4d55-4611-b324-90232ffb2970" />
